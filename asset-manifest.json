@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yeshwanth110905/static/css/main.7f1d594f.css",
+    "main.js": "/Yeshwanth110905/static/js/main.e55bbf3b.js",
+    "static/media/profile.jpg": "/Yeshwanth110905/static/media/profile.bd105d90239b9fb32126.jpg",
+    "index.html": "/Yeshwanth110905/index.html",
+    "main.7f1d594f.css.map": "/Yeshwanth110905/static/css/main.7f1d594f.css.map",
+    "main.e55bbf3b.js.map": "/Yeshwanth110905/static/js/main.e55bbf3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1d594f.css",
+    "static/js/main.e55bbf3b.js"
+  ]
+}
